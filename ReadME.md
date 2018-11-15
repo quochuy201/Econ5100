@@ -12,7 +12,7 @@ I have already set up the following directories:
 - figures: generated figures and other figures for paper
 - tables: generated tables
 
-You may not decide to use all of these.
+You may decide not to use all of these.
 
 Some directories have a ReadMe file in them, but the
 file contains just the name of the directory.
